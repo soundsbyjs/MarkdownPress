@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "formidable": "^3.5.1",
+    "marked": "^14.1.2",
+    "pg": "^8.13.0",
+    "sanitize-html": "^2.13.0"
+  }
+}
